@@ -1,0 +1,186 @@
+Country Name,Shape_Leng,Shape_Area,SubRegion,Region
+Indonesia,495.029918165,153.07860773,South-Eastern Asia,SEA_Oceania
+Malaysia,68.456912617,26.703172158,South-Eastern Asia,SEA_Oceania
+Chile,416.997271602,76.7618125583,South America,SouthAmerica
+Bolivia,54.3459907439,92.2035874193,South America,SouthAmerica
+Peru,73.2621923615,106.417089189,South America,SouthAmerica
+Argentina,151.513103612,278.681072546,South America,SouthAmerica
+Cyprus,9.59670112372,0.883311005185,Western Asia,NorthAfrica_MiddleEast
+India,199.04702445,272.304351424,Southern Asia,SouthAsia
+China,376.667094731,951.364849904,Eastern Asia,CentralAsia
+Israel,11.1306298005,1.95430445105,Western Asia,NorthAfrica_MiddleEast
+Lebanon,6.08382231465,0.974971982943,Western Asia,NorthAfrica_MiddleEast
+Ethiopia,47.3751355117,92.7077817003,Eastern Africa,SubSaharanAfrica
+Somalia,50.3532874797,52.3118107792,Eastern Africa,SubSaharanAfrica
+Kenya,36.4214752886,47.3437999413,Eastern Africa,SubSaharanAfrica
+Pakistan,74.3614695748,81.7104361532,Southern Asia,SouthAsia
+Malawi,24.7421347262,9.96232716407,Eastern Africa,SubSaharanAfrica
+Tanzania,51.1750979562,77.018650054,Eastern Africa,SubSaharanAfrica
+Syria,23.4622120146,18.4925178602,Western Asia,NorthAfrica_MiddleEast
+France,102.208550713,71.5758175792,Western Europe,WesternEurope
+Suriname,18.5113496728,11.8216892718,South America,SouthAmerica
+Guyana,28.7368581744,17.2264606588,South America,SouthAmerica
+South Korea,50.6676015025,9.89804821942,Eastern Asia,CentralAsia
+North Korea,35.3322769771,12.9380459346,Eastern Asia,CentralAsia
+Morocco,37.3162015249,39.4587009317,Northern Africa,NorthAfrica_MiddleEast
+Costa Rica,18.3804669273,4.21732580754,Central America,CentralAmerica_Caribbean
+Nicaragua,22.1171737998,10.7178615059,Central America,CentralAmerica_Caribbean
+Republic of Congo,39.5835430501,28.044545088,Middle Africa,SubSaharanAfrica
+Democratic Republic of Congo,87.7015603244,189.678904153,Middle Africa,SubSaharanAfrica
+Bhutan,9.88984536643,3.68402684243,Southern Asia,SouthAsia
+Ukraine,84.1355818576,73.6498901089,Eastern Europe,EasternEurope
+Belarus,33.7134296289,28.1223903608,Eastern Europe,EasternEurope
+Namibia,49.8930437398,72.1291487624,Southern Africa,SubSaharanAfrica
+South Africa,72.9675124912,113.101342085,Southern Africa,SubSaharanAfrica
+Oman,35.4106969408,26.9830005546,Western Asia,NorthAfrica_MiddleEast
+Uzbekistan,64.6765890608,48.5065842829,Central Asia,CentralAsia
+Kazakhstan,158.820119761,329.367573057,Central Asia,CentralAsia
+Tajikistan,36.6927062362,14.6966730228,Central Asia,CentralAsia
+Lithuania,17.8420745443,9.19039739767,Northern Europe,WesternEurope
+Brazil,283.824736665,707.102986007,South America,SouthAmerica
+Uruguay,19.3068148819,17.0762328041,South America,SouthAmerica
+Mongolia,85.7240719892,184.602987128,Eastern Asia,CentralAsia
+Russia,1645.53614683,2925.33260935,Eastern Europe,EasternEurope
+Czech Republic,20.3709041337,9.82266586606,Eastern Europe,EasternEurope
+Germany,68.2351868316,45.9300272954,Western Europe,WesternEurope
+Estonia,27.2080075383,7.08958329553,Northern Europe,WesternEurope
+Latvia,20.1911330905,9.50486409628,Northern Europe,WesternEurope
+Norway,552.733226009,85.5974433621,Northern Europe,WesternEurope
+Sweden,116.62662784,78.5608793406,Northern Europe,WesternEurope
+Finland,94.2514364636,62.3801929127,Northern Europe,WesternEurope
+Vietnam,87.7198440689,27.9450607565,South-Eastern Asia,SEA_Oceania
+Cambodia,26.0326129245,15.0716947,South-Eastern Asia,SEA_Oceania
+Luxembourg,2.96006313204,0.325538938244,Western Europe,WesternEurope
+United Arab Emirates,21.4662899263,6.30355952911,Western Asia,NorthAfrica_MiddleEast
+Belgium,13.4967900316,3.89735083289,Western Europe,WesternEurope
+Georgia,18.8261686423,7.58022437861,Western Asia,NorthAfrica_MiddleEast
+North Macedonia,7.61915187094,2.74144634223,Southern Europe,WesternEurope
+Albania,11.050457212,3.03939513242,Southern Europe,WesternEurope
+Azerbaijan,27.6897085195,9.13544984668,Western Asia,NorthAfrica_MiddleEast
+Kosovo,5.92591283292,1.19657165855,Southern Europe,WesternEurope
+Turkey,87.588304986,81.2094475835,Western Asia,NorthAfrica_MiddleEast
+Spain,70.285985349,53.6819282548,Southern Europe,WesternEurope
+Laos,40.5859998809,19.5287002959,South-Eastern Asia,SEA_Oceania
+Kyrgyz Republic,40.5825665364,21.4488264556,Central Asia,CentralAsia
+Armenia,12.8064712368,3.13377789517,Western Asia,NorthAfrica_MiddleEast
+Denmark,55.7655080631,6.14107378805,Northern Europe,WesternEurope
+Libya,58.1406838029,147.894331827,Northern Africa,NorthAfrica_MiddleEast
+Tunisia,27.0986510201,15.3107492723,Northern Africa,NorthAfrica_MiddleEast
+Romania,31.5349153436,27.3871816839,Eastern Europe,EasternEurope
+Hungary,19.3568659173,11.0570051023,Eastern Europe,EasternEurope
+Slovak Republic,14.9033382999,5.92051689947,Eastern Europe,EasternEurope
+Poland,37.8187569487,41.1417725795,Eastern Europe,EasternEurope
+Ireland,48.2420158345,9.33404778328,Northern Europe,WesternEurope
+United Kingdom,155.614091289,33.5457362073,Northern Europe,WesternEurope
+Greece,108.709390024,13.6742006886,Southern Europe,WesternEurope
+Zambia,51.2206126846,62.8156025124,Eastern Africa,SubSaharanAfrica
+Sierra Leone,16.759111176,5.88208207572,Western Africa,SubSaharanAfrica
+Guinea,36.7021593895,20.176388483,Western Africa,SubSaharanAfrica
+Liberia,17.0236937789,7.79118013669,Western Africa,SubSaharanAfrica
+Central African Republic,44.6366355383,50.5477020451,Middle Africa,SubSaharanAfrica
+Sudan,67.7697484042,156.205461778,Northern Africa,NorthAfrica_MiddleEast
+Djibouti,7.49339765105,1.81197544431,Eastern Africa,SubSaharanAfrica
+Eritrea,27.6109275258,10.3161626883,Eastern Africa,SubSaharanAfrica
+Austria,24.1384718106,10.0437084524,Western Europe,WesternEurope
+Iraq,34.6760125294,42.243983472,Western Asia,NorthAfrica_MiddleEast
+Italy,80.2067554852,33.1721712396,Southern Europe,WesternEurope
+Switzerland,16.6264071469,4.88262325403,Western Europe,WesternEurope
+Iran,83.5335291297,156.087982588,Southern Asia,SouthAsia
+Liechtenstein,0.615380290538,0.0162742679432,Western Europe,WesternEurope
+Cote d'Ivoire,36.2819679134,26.2871187176,Western Africa,SubSaharanAfrica
+Serbia,20.5886722918,8.73788346147,Southern Europe,WesternEurope
+Mali,66.6987944694,106.682411546,Western Africa,SubSaharanAfrica
+Senegal,34.3183639382,16.4456689334,Western Africa,SubSaharanAfrica
+Nigeria,54.8038897478,74.8030661887,Western Africa,SubSaharanAfrica
+Benin,18.1043122105,9.56811236918,Western Africa,SubSaharanAfrica
+Angola,61.8290450109,103.585467128,Middle Africa,SubSaharanAfrica
+Croatia,49.3088251014,6.29375112589,Southern Europe,WesternEurope
+Slovenia,10.7351450281,2.36579588969,Southern Europe,WesternEurope
+Qatar,5.56116614022,0.99963223474,Western Asia,NorthAfrica_MiddleEast
+Saudi Arabia,77.7364419418,171.015757112,Western Asia,NorthAfrica_MiddleEast
+Botswana,35.0786784469,50.7393482994,Southern Africa,SubSaharanAfrica
+Zimbabwe,26.9081861647,33.4185830863,Eastern Africa,SubSaharanAfrica
+Bulgaria,21.56978006,12.4028510156,Eastern Europe,EasternEurope
+Thailand,76.7490233195,43.3239019001,South-Eastern Asia,SEA_Oceania
+Haiti,16.210866708,2.30656996212,Caribbean,CentralAmerica_Caribbean
+Dominican Republic,14.4488853726,4.15377012423,Caribbean,CentralAmerica_Caribbean
+Chad,53.1017330253,106.807562756,Middle Africa,SubSaharanAfrica
+Kuwait,8.7998033323,1.62327676539,Western Asia,NorthAfrica_MiddleEast
+El Salvador,8.55787583023,1.71649151916,Central America,CentralAmerica_Caribbean
+Guatemala,17.7479339548,9.17482202899,Central America,CentralAmerica_Caribbean
+Timor-Leste,8.25350522324,1.23958664177,South-Eastern Asia,SEA_Oceania
+Brunei Darussalam,5.27060270304,0.465836535753,South-Eastern Asia,SEA_Oceania
+Algeria,71.6416869219,212.690940594,Northern Africa,NorthAfrica_MiddleEast
+Mozambique,75.8277441431,67.1597369386,Eastern Africa,SubSaharanAfrica
+Eswatini,5.06918576565,1.55010923303,Southern Africa,SubSaharanAfrica
+Burundi,8.08161325029,2.20061379274,Eastern Africa,SubSaharanAfrica
+Rwanda,7.41458013864,2.0570614611,Eastern Africa,SubSaharanAfrica
+Myanmar,106.244596583,57.784528848,South-Eastern Asia,SEA_Oceania
+Bangladesh,53.187135259,12.1362447814,Southern Asia,SouthAsia
+Afghanistan,52.7658270687,62.5916641659,Southern Asia,SouthAsia
+Montenegro,7.91053754493,1.51025454637,Southern Europe,WesternEurope
+Bosnia and Herzegovina,14.19161671,5.83247037578,Southern Europe,WesternEurope
+Uganda,21.954985122,19.6587802347,Eastern Africa,SubSaharanAfrica
+Cuba,54.1624784452,9.59075594912,Caribbean,CentralAmerica_Caribbean
+Honduras,25.8913276813,9.42431796393,Central America,CentralAmerica_Caribbean
+Ecuador,39.67945616,20.7296208692,South America,SouthAmerica
+Colombia,82.0160746871,92.5765038987,South America,SouthAmerica
+Paraguay,32.8729516436,35.303393593,South America,SouthAmerica
+Portugal,32.7585840927,9.58526335838,Southern Europe,WesternEurope
+Moldova,14.3940702942,3.94190083247,Eastern Europe,EasternEurope
+Turkmenistan,57.7058320201,49.0592931429,Central Asia,CentralAsia
+Jordan,16.529986686,8.41506377517,Western Asia,NorthAfrica_MiddleEast
+Nepal,25.1124984871,13.5278467961,Southern Asia,SouthAsia
+Lesotho,7.61084021326,2.80334027748,Southern Africa,SubSaharanAfrica
+Cameroon,46.0056572903,37.9375707929,Middle Africa,SubSaharanAfrica
+Gabon,37.1758626144,21.126977018,Middle Africa,SubSaharanAfrica
+Niger,51.5544846235,100.57330732,Western Africa,SubSaharanAfrica
+Burkina Faso,29.865507017,22.6690456724,Western Africa,SubSaharanAfrica
+Togo,14.9738120657,4.6711391089,Western Africa,SubSaharanAfrica
+Ghana,23.3645254574,19.58114282,Western Africa,SubSaharanAfrica
+Guinea-Bissau,23.7409246443,2.7253983582,Western Africa,SubSaharanAfrica
+United States,948.724318782,1116.36176133,Northern America,NorthAmerica
+Canada,2573.71248421,1691.86907643,Northern America,NorthAmerica
+Mexico,182.06621312,174.202021288,Central America,CentralAmerica_Caribbean
+Belize,10.8562881979,1.89441426951,Central America,CentralAmerica_Caribbean
+Panama,35.6403996214,6.12087081104,Central America,CentralAmerica_Caribbean
+Venezuela,88.9354071103,74.7787399104,South America,SouthAmerica
+Papua New Guinea,108.308260261,38.0436676545,Melanesia,SEA_Oceania
+Egypt,61.1592880444,90.7319263477,Northern Africa,NorthAfrica_MiddleEast
+Yemen,37.305421664,38.2467016379,Western Asia,NorthAfrica_MiddleEast
+Mauritania,54.8572439633,89.7218931241,Western Africa,SubSaharanAfrica
+Equatorial Guinea,8.85692075037,2.16788281555,Middle Africa,SubSaharanAfrica
+The Gambia,11.2693999007,0.876541797391,Western Africa,SubSaharanAfrica
+Hong Kong,4.25497337157,0.0908657818087,Eastern Asia,CentralAsia
+Australia,322.967284472,695.909318279,Australia and New Zealand,SEA_Oceania
+Fiji,24.0827537327,1.61025023655,Melanesia,SEA_Oceania
+Madagascar,49.8304320814,51.0696834432,Eastern Africa,SubSaharanAfrica
+Philippines,157.222906592,24.3712212355,South-Eastern Asia,SEA_Oceania
+Sri Lanka,17.956902878,5.43287320052,Southern Asia,SouthAsia
+The Bahamas,35.7368194196,1.11974956069,Caribbean,CentralAmerica_Caribbean
+Japan,155.113996542,38.1713826404,Eastern Asia,CentralAsia
+Iceland,83.0505855279,19.4672311393,Northern Europe,WesternEurope
+Seychelles,3.53365259647,0.0356447945127,Eastern Africa,SubSaharanAfrica
+Kiribati,10.4885569276,0.0772676997032,Micronesia,SEA_Oceania
+Trinidad and Tobago,4.66253815083,0.423053922955,Caribbean,CentralAmerica_Caribbean
+Saint Vincent and the Grenadines,1.22852448379,0.030665911831,Caribbean,CentralAmerica_Caribbean
+Barbados,0.817650674957,0.0370397767009,Caribbean,CentralAmerica_Caribbean
+Saint Lucia,0.969618605797,0.0506060924937,Caribbean,CentralAmerica_Caribbean
+Dominica,1.16552173821,0.0614933189288,Caribbean,CentralAmerica_Caribbean
+Jamaica,5.97743803289,0.94206182704,Caribbean,CentralAmerica_Caribbean
+Mauritius,2.31775937935,0.17410360791,Eastern Africa,SubSaharanAfrica
+Comoros,3.1156506187,0.138752072858,Eastern Africa,SubSaharanAfrica
+Sao Tome and Principe,1.66559184796,0.0842651030043,Middle Africa,SubSaharanAfrica
+Cape Verde,7.40778678946,0.3277834683,Western Africa,SubSaharanAfrica
+Malta,1.11530426173,0.0325219019489,Southern Europe,WesternEurope
+Singapore,0.872987781748,0.0414850761829,South-Eastern Asia,SEA_Oceania
+Tonga,3.20486106956,0.052101741143,Polynesia,SEA_Oceania
+Samoa,3.13979911233,0.232377855191,Polynesia,SEA_Oceania
+Solomon Islands,40.7215147018,2.23640243925,Melanesia,SEA_Oceania
+Maldives,4.67853468323,0.00886021445536,Southern Asia,SouthAsia
+Micronesia,3.11198343307,0.0518821826273,Micronesia,SEA_Oceania
+Vanuatu,20.7747305456,1.03955391996,Melanesia,SEA_Oceania
+Bahrain,1.26371277728,0.0527597706727,Western Asia,NorthAfrica_MiddleEast
+Macau,0.423646271507,0.00263327857839,Eastern Asia,CentralAsia
+Netherlands,22.8163859273,4.88454043988,Western Europe,WesternEurope
+New Zealand,104.828985944,29.1435421818,Australia and New Zealand,SEA_Oceania
