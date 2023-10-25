@@ -71,3 +71,17 @@ Majoritary Religions	: Top 3 religions that have at least 4% following in the Co
 
 More details on notebook: 04_DataCollection_wikipediaWebScraping.ipynb
 
+
+
+
+
+
+
+
+----------------------------------------------------------------
+addData_disasterData.csv
+
+Country Name			: Name of the Country
+Index Year (Decade)		: Decade of the data
+Death rates from disasters	: Ratio of people killed from disasters per capita
+
