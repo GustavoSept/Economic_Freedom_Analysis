@@ -1,0 +1,73 @@
+Economic Freedom:	
+	economicData_1995-2022.csv
+	economicData_1960-2022_noNaN-drops.csv
+
+They're the merged and wrangled versions of:
+
+	EconomicFreedom_Heritage_1995-2023.csv
+			+
+	WorldDevelopmentIndicators_1960-2022.csv
+
+See notebook (01_Data_Cleaning.ipynb) for details on it.
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------
+
+economicData_EF-Analysis_yearsDelta_from-1-to-25.csv
+
+It is the result of the notebook: 03_EDA_02_TimeSeries-Analysis_SingleDelta.ipynb
+It's basically GDP and Economic Freedom Data with time shifts, as to help determine causation links.
+
+
+
+
+
+
+
+
+----------------------------------------------------------------
+
+addData_countriesSize_Regions.csv
+
+Country Name		: Name of the Country
+Shape_Leng		: Country Border (as in total circumference) Length. I'm not sure which measuring system/unit it's using. But it's consistent data.
+Shape_Area		: Area of Country. Same note as above.
+SubRegion		: Segmented version of Region
+Region			: Large regions of the world, roughly dividided by culture & continents.
+
+More details on notebook: 04_DataCollection_countrySize-Regions.ipynb
+
+
+
+
+
+
+
+----------------------------------------------------------------
+
+addData_fromWiki.csv
+
+Country Name		: Name of the Country
+Borders Length (in KM)	: Borders Length (as in, only where it touches another country by land)
+Neighbouring Countries	: List of Countries who shares a land border with given Country
+isLandLocked		: Boolean value, whether given Country DOES NOT have access to the sea (True), or not (False).
+n_accessToSea		: Number of country neighbours that has access to sea. If isLandLocked is False, it defaults to 6.
+Rail Density		: Length of Rail Network per Country Size (in km²)
+Pctg of Rail Electrified: Percentage of rail network that is electrified.
+Warred Against		: List of countries that given Country has warred against in the past. Civil/Internal wars are counted as well. Scraped from wikipedia, data is not 100% accurate. [Many more man-hours would be needed to properly extract this information. But it's quite close to reality.].
+Area Size (km2)		: Country Area, in KM squared.
+Expanded EconZone Area	: Area of EEZ zones for each country.
+Amount of Ports		: Number of ports per country.
+Distance from Equator	: How far from the equator the country is, in terms of latitude.
+Majoritary Religions	: Top 3 religions that have at least 4% following in the Country. Some religions were merged into others, to have as few significant categories as possible.
+
+More details on notebook: 04_DataCollection_wikipediaWebScraping.ipynb
+

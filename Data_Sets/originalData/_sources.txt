@@ -1,0 +1,7 @@
+natural-disasters.csv			 : https://www.kaggle.com/datasets/mathurinache/natural-disasters-data-explorer
+
+EconomicFreedom_Heritage_1995-2023.csv   : https://www.heritage.org/index/explore
+
+WB_countries_Admin0.geojson		 : https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries
+
+WorldDevelopmentIndicators_1960-2022.csv : https://databank.worldbank.org/source/world-development-indicators/Type/TABLE/preview/on#
