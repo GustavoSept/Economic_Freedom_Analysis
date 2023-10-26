@@ -19,7 +19,6 @@ naturalResourcesWealth.csv		 : https://ourworldindata.org/the-missing-economic-m
 climateData.csv				 : https://weatherandclimate.com/countries
 
 arableLand.csv				 : https://databank.worldbank.org/
-lifeExpectancy.csv			 : https://databank.worldbank.org/
 Labor_force_with_advanced_education.csv	 : https://databank.worldbank.org/
 	
 
