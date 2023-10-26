@@ -1,0 +1,186 @@
+Country Name,Climate Type,Average Temperature (C)
+Afghanistan,DF,15.7
+Albania,CW,15.17
+Algeria,BW,20.0
+Angola,AW,24.37
+Argentina,CF,18.24
+Armenia,DF,10.4
+Australia,BW,20.37
+Austria,DF,8.82
+Azerbaijan,BS,14.47
+Bahrain,BW,27.98
+Bangladesh,AW,27.74
+Barbados,AM,27.61
+Belarus,DF,8.66
+Belgium,CF,11.41
+Belize,AM,26.64
+Benin,AW,29.12
+Bhutan,CW,15.6
+Bolivia,AW,18.3
+Bosnia and Herzegovina,DF,12.32
+Botswana,BS,24.56
+Brazil,AW,25.72
+Brunei Darussalam,AF,28.43
+Bulgaria,DF,13.4
+Burkina Faso,BS,31.14
+Burundi,CW,20.47
+Cambodia,AM,28.97
+Cameroon,AW,26.81
+Canada,DF,2.09
+Cape Verde,BW,24.3
+Central African Republic,AW,28.52
+Chad,CF,30.88
+Chile,CW,14.49
+China,BS,14.62
+Colombia,CF,24.2
+Comoros,AF,26.96
+Costa Rica,CF,23.57
+Cote d'Ivoire,AW,28.01
+Croatia,CF,13.5
+Cuba,AW,26.91
+Cyprus,BS,21.71
+Czech Republic,CF,10.07
+Democratic Republic of Congo,AM,26.82
+Denmark,CF,9.89
+Djibouti,BW,29.8
+Dominica,AF,27.31
+Dominican Republic,AF,26.07
+Ecuador,CF,17.26
+Egypt,BW,24.9
+El Salvador,AW,27.31
+Equatorial Guinea,AM,26.08
+Eritrea,BW,26.99
+Estonia,DF,7.51
+Eswatini,CW,20.77
+Ethiopia,BS,22.23
+Micronesia,AF,28.54
+Fiji,AF,26.49
+Finland,DF,5.64
+France,CF,12.44
+Gabon,AW,26.7
+Georgia,CF,12.11
+Germany,CF,10.68
+Ghana,AW,28.86
+Greece,CW,17.02
+Guatemala,AM,21.72
+Guinea,AW,27.06
+Guinea-Bissau,AW,29.72
+Guyana,AF,27.79
+Haiti,AW,26.48
+Honduras,AM,24.43
+Hong Kong,CW,24.11
+Hungary,CF,13.04
+Iceland,DF,3.17
+India,AW,25.97
+Indonesia,AF,27.11
+Iran,BW,18.43
+Iraq,BW,26.77
+Ireland,CF,10.1
+Israel,BS,22.69
+Italy,CW,14.47
+Jamaica,AW,26.83
+Japan,DF,15.19
+Jordan,CF,22.17
+Kazakhstan,BS,9.33
+Kenya,AW,22.5
+Kiribati,AF,27.6
+Kosovo,CF,12.36
+Kuwait,BW,28.83
+Kyrgyz Republic,DF,9.61
+Laos,CW,25.39
+Latvia,DF,8.07
+Lebanon,CW,19.92
+Lesotho,CW,16.06
+Liberia,AM,26.86
+Libya,BW,23.87
+Liechtenstein,CF,8.62
+Lithuania,DF,8.77
+Luxembourg,CF,10.06
+Macau,CW,24.37
+Madagascar,CW,23.88
+Malawi,AW,23.02
+Malaysia,AF,28.28
+Maldives,AM,28.21
+Mali,BW,31.77
+Malta,CW,19.94
+Mauritania,BW,29.76
+Mauritius,AM,25.09
+Mexico,BS,22.03
+Moldova,DF,12.59
+Mongolia,BS,1.22
+Montenegro,CF,12.24
+Morocco,BS,21.46
+Mozambique,AW,25.62
+Myanmar,AW,27.02
+Namibia,BW,24.46
+Nepal,CW,22.0
+Netherlands,CF,11.59
+New Zealand,CF,13.07
+Nicaragua,AM,26.48
+Niger,BW,32.04
+Nigeria,AW,29.46
+North Korea,DF,9.25
+North Macedonia,CF,13.29
+Norway,DF,5.03
+Oman,BW,29.2
+Pakistan,BW,20.89
+Panama,AM,26.87
+Papua New Guinea,AF,23.03
+Paraguay,AW,25.06
+Peru,AF,17.63
+Philippines,AF,27.22
+Poland,CF,10.6
+Portugal,CW,16.81
+Qatar,BW,29.74
+Republic of Congo,AM,27.33
+Romania,DF,12.86
+Russia,DF,5.27
+Rwanda,CF,20.44
+Saint Lucia,AF,27.77
+Saint Vincent and the Grenadines,AF,26.72
+Samoa,AW,27.65
+Sao Tome and Principe,AW,26.54
+Saudi Arabia,BW,27.01
+Senegal,BS,30.32
+Serbia,CF,13.25
+Seychelles,AF,27.59
+Sierra Leone,AM,27.61
+Singapore,AF,25.1
+Slovak Republic,DF,10.78
+Slovenia,CF,11.8
+Solomon Islands,AF,27.76
+Somalia,BW,27.91
+South Africa,BW,21.22
+South Korea,DF,13.6
+Spain,CW,16.61
+Sri Lanka,AF,27.46
+Sudan,BS,30.04
+Suriname,AF,27.51
+Sweden,DF,7.25
+Switzerland,DF,9.1
+Syria,BW,21.76
+Tajikistan,DF,7.86
+Tanzania,BS,24.22
+Thailand,AW,28.64
+The Bahamas,AW,25.84
+The Gambia,AW,29.58
+Timor-Leste,AW,26.57
+Togo,CF,26.08
+Tonga,AF,25.73
+Trinidad and Tobago,AM,27.72
+Tunisia,BW,21.09
+Turkey,CW,14.96
+Turkmenistan,BS,19.59
+Uganda,AM,23.47
+Ukraine,DF,11.38
+United Arab Emirates,BW,29.78
+United Kingdom,CF,10.75
+United States,CF,12.64
+Uruguay,CF,18.62
+Uzbekistan,BW,17.67
+Vanuatu,AF,26.28
+Venezuela,AM,26.65
+Vietnam,CW,26.25
+Yemen,BW,25.53
+Zambia,CW,23.33
+Zimbabwe,BS,22.73
