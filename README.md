@@ -11,13 +11,8 @@ Along the way, we'll answer other questions, like:
 - Initial Data Acquisition & Cleaning
 - Basic Exploratory Data Analysis (EDA)
 - Time Slider Analysis (to poke at causality explanation)
+- Predictive Model (using GradientBoostingRegressor) to project GDP per Capita, given certain features
+	- Interactive Plot on Feature Importance
 
 ## 📌 **What needs to be done:**
-- More data collection (via APIs and Web Scraping) on dozens of Socio-Cultural-Economic-Geo-Political metrics
-- Data Cleaning on new data
-- Model building on all of the collected features
-	- I plan to do the usual iterative pipeline for ML modeling:
-		- I'll account for multicollinearity between all features
-		- Evaluate multiple regression algorithms, and fine tune hyperparameters
-		- Since the data isn't that big, use Cross Validation for evaluation 
 - Write a Report detailing the process for easier access
