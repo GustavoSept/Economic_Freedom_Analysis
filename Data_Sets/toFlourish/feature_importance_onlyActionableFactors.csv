@@ -1,0 +1,28 @@
+Feature,Importance,Feature Group
+EF_Government Integrity,0.47183454448371526,Economic Freedom
+Harmonized Test Scores,0.0700868475865145,Education & Research
+EF_Property Rights,0.03906536859520905,Economic Freedom
+EF_Trade Freedom,0.03727558592714385,Economic Freedom
+Trade in services (% of GDP),0.031213793839858967,Infra & Other Economic Factors
+Pctg of Rail Electrified,0.02454645145591937,Infra & Other Economic Factors
+H index (Academic Papers),0.019393200820651508,Education & Research
+Labor force size,0.018575640798747815,Infra & Other Economic Factors
+Proportion of Rival Neighbours,0.018407395374435934,Conflicts & Wars
+EF_Fiscal Health,0.012594528551962771,Economic Freedom
+Gini,0.0053887674930747165,Infra & Other Economic Factors
+EF_Tax Burden,0.005261367286638364,Economic Freedom
+Rail Density,0.0020786893802169247,Infra & Other Economic Factors
+Death rates from disasters,0.0017894360676659188,Infra & Other Economic Factors
+EF_Government Spending,0.001613506259480684,Economic Freedom
+EF_Investment Freedom,0.0012048936142423652,Economic Freedom
+EF_Business Freedom,0.0011503255636972549,Economic Freedom
+Trade (% of GDP),0.0009890306455617873,Infra & Other Economic Factors
+Amount of Ports,0.000875587877979228,Infra & Other Economic Factors
+Amount of Major Conflicts_Since 1900,0.0007291489697022817,Conflicts & Wars
+Qualified Labor Force pct,0.0006493157284757648,Education & Research
+EF_Judicial Effectiveness,0.0006234121740535054,Economic Freedom
+EF_Financial Freedom,0.0005370609055240229,Economic Freedom
+Real interest rate,0.0005160216095293085,Infra & Other Economic Factors
+EF_Monetary Freedom,0.0004558198876619778,Economic Freedom
+Inflation CPI,0.0004467879721904277,Infra & Other Economic Factors
+EF_Labor Freedom,0.00010334448943685756,Economic Freedom

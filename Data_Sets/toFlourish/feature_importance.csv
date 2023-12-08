@@ -1,0 +1,56 @@
+Feature,Importance,Feature Group
+EF_Government Integrity,0.47183454448371526,Economic Freedom
+Local Mean GDP per Capita,0.12417642200182985,Neighbour Quality
+Harmonized Test Scores,0.0700868475865145,Education & Research
+Natural Resources,0.0486044927568749,geoPolitical
+EF_Property Rights,0.03906536859520905,Economic Freedom
+EF_Trade Freedom,0.03727558592714385,Economic Freedom
+Trade in services (% of GDP),0.031213793839858967,Infra & Other Economic Factors
+Pctg of Rail Electrified,0.02454645145591937,Infra & Other Economic Factors
+Population Density,0.020877473150461658,geoPolitical
+H index (Academic Papers),0.019393200820651508,Education & Research
+Labor force size,0.018575640798747815,Infra & Other Economic Factors
+Proportion of Rival Neighbours,0.018407395374435934,Conflicts & Wars
+EF_Fiscal Health,0.012594528551962771,Economic Freedom
+Shared Borders (in pct),0.008618526268641232,geoPolitical
+Area Size (km2),0.007073335929949384,geoPolitical
+Local Mean Gini,0.0057303779683617745,Neighbour Quality
+Gini,0.0053887674930747165,Infra & Other Economic Factors
+EF_Tax Burden,0.005261367286638364,Economic Freedom
+Migration Volume,0.005137120972537071,geoPolitical
+Total population,0.0034663974976144912,geoPolitical
+Arable Land pct,0.003077557593323279,geoPolitical
+Local Mean GDP,0.002546676652607943,Neighbour Quality
+Rail Density,0.0020786893802169247,Infra & Other Economic Factors
+Death rates from disasters,0.0017894360676659188,Infra & Other Economic Factors
+EF_Government Spending,0.001613506259480684,Economic Freedom
+EF_Investment Freedom,0.0012048936142423652,Economic Freedom
+Distance from Equator,0.001185796805067823,geoPolitical
+EF_Business Freedom,0.0011503255636972549,Economic Freedom
+Expanded EconZone Area,0.001089219408857834,geoPolitical
+Trade (% of GDP),0.0009890306455617873,Infra & Other Economic Factors
+Amount of Ports,0.000875587877979228,Infra & Other Economic Factors
+Amount of Major Conflicts_Since 1900,0.0007291489697022817,Conflicts & Wars
+Qualified Labor Force pct,0.0006493157284757648,Education & Research
+EF_Judicial Effectiveness,0.0006234121740535054,Economic Freedom
+EF_Financial Freedom,0.0005370609055240229,Economic Freedom
+Real interest rate,0.0005160216095293085,Infra & Other Economic Factors
+EF_Monetary Freedom,0.0004558198876619778,Economic Freedom
+Inflation CPI,0.0004467879721904277,Infra & Other Economic Factors
+Amount of Country Neighbours,0.00037124213378959576,geoPolitical
+Religion_no religion,0.0002713817901163567,Religion
+ClimateType_BS,0.00015842935749409896,geoPolitical
+EF_Labor Freedom,0.00010334448943685756,Economic Freedom
+ClimateType_CW,6.630046863698665e-05,geoPolitical
+ClimateType_AM,6.184598560460665e-05,geoPolitical
+ClimateType_AW,5.205137565959035e-05,geoPolitical
+n_accessToSea,1.599226525682257e-05,geoPolitical
+Religion_islam,1.3483815350284845e-05,Religion
+Religion_folk,2.442674167265726e-09,Religion
+Religion_christianity,0.0,Religion
+Religion_hinduism,0.0,Religion
+ClimateType_AF,0.0,geoPolitical
+Religion_buddhism,0.0,Religion
+ClimateType_BW,0.0,geoPolitical
+ClimateType_CF,0.0,geoPolitical
+ClimateType_DF,0.0,geoPolitical
