@@ -14,5 +14,5 @@ Along the way, we'll answer other questions, like:
 - Predictive Model (using GradientBoostingRegressor) to project GDP per Capita, given certain features
 	- Interactive Plot on Feature Importance
 
-## 📌 **What needs to be done:**
-- Write a Report detailing the process for easier access
+## 📌 **Interactive Short Presentation**
+[Flourish Presentation](https://public.flourish.studio/story/2115728/)
